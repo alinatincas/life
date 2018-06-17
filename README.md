@@ -5,7 +5,7 @@ The Images folder contains the images which I created myself in Adobe Illustrato
 
 This is a screenshot of the website: 
 
-<img src="images/screenshot.png" width="100%" border= "3px solid black">
+<img src="images/screenshot.png" width="100%" border="3">
 
 And this is a screenshot of the model, after clicking on read more text: 
 
