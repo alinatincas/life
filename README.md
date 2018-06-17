@@ -7,7 +7,7 @@ This is a screenshot of the website:
 
 <img src="images/screenshot.png" width="100%">
 
-And this is a screenshot of the model, after clicking on read more text: 
+And this is a screenshot of the modal, after clicking on read more text: 
 
 <img src="images/screenshot_modal.png" width="100%">
 
