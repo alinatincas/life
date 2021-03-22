@@ -3,6 +3,8 @@ This is a small responsive website made with HTML, CSS + CSS Grid. It is a websi
 
 The Images folder contains the images which I created myself in Adobe Illustrator (the AI file is inside there as well) based on real images which are in another folder inside the images folder called Grid.
 
+You can get the full experience of the website by checking it live on this link: https://alina-tincas.com/life/index.html
+
 This is a screenshot of the website: 
 
 <img src="images/screenshot.png" width="100%">
